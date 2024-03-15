@@ -1,0 +1,125 @@
+main{
+    font-size: 37px;
+    font-style: italic;
+    color:#f6f6f7;
+    text-align: CENTER;
+}
+p1{
+    color:darkgoldenrod;
+    -webkit-text-stroke: white 0.5px;
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 38px;
+}
+P2{
+    color: blue;
+    font-size: 28px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+h1{ 
+    text-align: center;
+    color:white;
+    -webkit-text-stroke: rgb(0, 26, 255) 1px;
+    font-size: 48px;
+}
+.navbar ul{
+
+    list-style-type: none;
+    background-color: rgb(136, 192, 240);
+    padding: 3px;
+    margin: 5px;
+    overflow: hidden;
+}
+.navbar a{
+    color: rgb(239, 9, 9);
+    text-decoration: wavy;
+    padding: 15px;
+    display: block;
+    text-align: center;
+    font-size: 25px;
+    block-size: 20px;
+
+}
+.navbar a:hover{
+    background-color: rgb(21, 12, 1);
+}
+.navbar li{
+    float:left;
+}main{
+    font-size: 37px;
+    font-style: italic;
+    color:#f6f6f7;
+    text-align: CENTER;
+}
+p1{
+    color:darkgoldenrod;
+    -webkit-text-stroke: white 0.5px;
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 38px;
+}
+P2{
+    color: blue;
+    font-size: 28px;
+    font-family: 'Times New Roman', Times, serif;
+}
+img{
+    position:absolute;
+    padding:3%;
+    padding-right: 2%;
+    padding-left: 3%;
+    padding-bottom: 2%;
+}
+img {
+    border-radius: 3px;
+}
+p3{
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: aliceblue;
+    text-align:right;
+    -webkit-text-stroke: blue;
+}
+
+h1{ 
+    text-align: center;
+    color:white;
+    -webkit-text-stroke: rgb(0, 26, 255) 1px;
+    font-size: 48px;
+}
+h2{
+    text-align: center;
+    color: rgb(14, 14, 243);
+    -webkit-text-stroke: #f6f6f7 1px;
+    font-size: 30px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 3%;
+    padding-top: 10%;
+
+}
+.navbar ul{
+
+    list-style-type: none;
+    background-color: rgb(136, 192, 240);
+    padding: 3px;
+    margin: 5px;
+    overflow: hidden;
+}
+.navbar a{
+    color: rgb(239, 9, 9);
+    text-decoration: wavy;
+    padding: 15px;
+    display: block;
+    text-align: center;
+    font-size: 25px;
+    block-size: 20px;
+
+}
+.navbar a:hover{
+    background-color: rgb(21, 12, 1);
+}
+.navbar li{
+    float:left;
+}

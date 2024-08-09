@@ -4,6 +4,9 @@ main{
     color:#f6f6f7;
     text-align: CENTER;
 }
+img{ 
+    border-radius:50%;
+}
 p1{
     color:darkgoldenrod;
     -webkit-text-stroke: white 0.5px;
